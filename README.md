@@ -1,24 +1,26 @@
-# Hi there, I'm Vamsi Krishna 👋  
-
-I’m a **React.js Developer** with **4+ years of experience** in building scalable, high-performance web applications. Passionate about **frontend development, UI/UX design, and open-source contributions**.  
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D4FF&center=true&width=635&lines=Hi+there%2C+I'm+Vamsi+Krishna+%F0%9F%91%8B;React.js+Developer+%7C+UI%2FUX+Enthusiast" />
+</p>
 
 ---
 
 ## 🚀 About Me  
 
-- 👀 I’m interested in **React.js, JavaScript, TypeScript, Next.js, and Frontend Performance Optimization**.  
-- 🌱 I’m currently learning **GraphQL, Web Security, and Microfrontend Architecture**.  
-- 💞️ I’m looking to collaborate on **React.js projects, Open Source contributions, and Full-Stack Web Applications**.  
-- 📫 How to reach me: [galetivamsikrishna@example.com](mailto:galetivamsikrishna@example.com)  
-- 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: **I love solving coding challenges and debugging complex React issues! 😆**  
+👋 Hi! I'm **Vamsi Krishna**, a **React.js Developer** with **4+ years** of experience in building scalable web applications.  
+I specialize in **frontend development, UI/UX design, and performance optimization**.  
+
+💡 **Currently Learning:** GraphQL, Web Security, Microfrontend Architecture  
+🤝 **Looking to Collaborate On:** React.js Projects, Open Source, Full-Stack Applications  
+📫 **How to Reach Me:** (galetivamsikrishna@gmail.com)  
+🎯 **Fun Fact:** I love **debugging complex React issues** & **solving coding challenges**! 😆  
 
 ---
 
 ## 🛠️ Tech Stack  
 
 ### **Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
@@ -43,29 +45,63 @@ I’m a **React.js Developer** with **4+ years of experience** in building scala
 
 ## 📊 GitHub Stats  
 
-![Vamsi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GaletiVamsiKrishna&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GaletiVamsiKrishna&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GaletiVamsiKrishna&show_icons=true&theme=light" alt="Vamsi's GitHub Stats" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaletiVamsiKrishna&layout=compact&theme=light" alt="Top Languages" width="42%"/>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies  
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=GaletiVamsiKrishna&theme=radical)  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GaletiVamsiKrishna&theme=flat&column=7" />
+</p>
 
 ---
 
 ## 📌 Featured Projects  
 
-### 1️⃣ **E-Commerce Website** 🛒  
-**Tech Stack:** React.js, Redux, Firebase, Node.js, MongoDB  
-- Built a fully functional e-commerce platform with product listing, cart, and payment integration.  
+### **1️⃣ E-Commerce Website 🛒**  
+🛠️ **Tech Stack:** React.js, Redux, Firebase, Node.js, MongoDB  
+📌 **[View on GitHub](https://github.com/GaletiVamsiKrishna/Ecommerce-App)**  
 
-### 2️⃣ **Movie Finder App** 🎬  
-**Tech Stack:** React.js, Tailwind CSS, OMDB API  
-- A React app that fetches movie details using OMDB API and provides real-time search functionality.  
+- Developed a **fully functional e-commerce platform** with product listing, cart, and payment integration.  
 
-### 3️⃣ **Task Management App** ✅  
-**Tech Stack:** React.js, TypeScript, Redux Toolkit, Express.js, PostgreSQL  
-- Created a Trello-like task manager with drag-and-drop functionality.  
+---
 
-[👉 View More Projects](https://github.com/GaletiVamsiKrishna?tab=repositories)  
+### **2️⃣ Movie Finder App 🎬**  
+🛠️ **Tech Stack:** React.js, Tailwind CSS, OMDB API  
+📌 **[View on GitHub](https://github.com/GaletiVamsiKrishna/Movie-Finder-App)**  
+
+- Fetches **real-time movie details** using the OMDB API with an **interactive UI**.  
+
+---
+
+### **3️⃣ Task Management App ✅**  
+🛠️ **Tech Stack:** React.js, TypeScript, Redux Toolkit, Express.js, PostgreSQL  
+📌 **[View on GitHub](https://github.com/GaletiVamsiKrishna/Task-Manager-App)**  
+
+- Built a **Trello-like task manager** with **drag-and-drop functionality**.  
+
+[👉 **Explore More Projects**](https://github.com/GaletiVamsiKrishna?tab=repositories)  
+
+---
+
+## 📢 Let's Connect  
+
+<p align="center">
+  <a href="https://linkedin.com/in/GaletiVamsiKrishna" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/GaletiVamsiKrishna" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:galetivamsikrishna@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐ **If you like my work, give it a star!** ⭐
